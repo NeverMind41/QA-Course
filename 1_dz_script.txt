@@ -1,0 +1,10 @@
+#!/bin/bash
+
+cd
+cd PAPKA
+MKDIR PAPKA_1 PAPKA_2 PAPKA_3
+cd PAPKA_1
+touch 1.txt 2.txt 3.txt 11.json 22.json
+mkdir papka_11 papka_22 papka_33
+ls -la
+mv /c/Users/Пользователь/papka/papka_1/1.txt /c/Users/Пользователь/papka/papka_1/11.json  /c/Users/Пользователь/papka/papka_2
